@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ping_lds.dir/src/sources/main.cpp.o  -o ping_lds 
